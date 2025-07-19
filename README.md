@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Siswoyo
 
 🛠️ **Tech Stack**  
-- 💻 Languages: JavaScript, Python  
+- 💻 Languages: JavaScript, Python, FastAPI  
 - 🌐 Frontend: NextJS 
 - 🗃️ Backend: Node.js, Express  
 - 🔧 Tools: Git, Docker, VS Code 
