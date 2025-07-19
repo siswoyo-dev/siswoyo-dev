@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm Siswoyo
+
+🛠️ **Tech Stack**  
+- 💻 Languages: JavaScript, Python  
+- 🌐 Frontend: NextJS 
+- 🗃️ Backend: Node.js, Express  
+- 🔧 Tools: Git, Docker, VS Code 
 
 <!--
 **siswoyo-dev/siswoyo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
