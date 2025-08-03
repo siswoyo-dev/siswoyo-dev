@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Siswoyo
 
-I use the following languages, tools, deployment and databases across my GitHub repositories:
+I use the following languages, tools, deployment, database and etc across my GitHub repositories:
 
 ## 💻 Languages 
 
@@ -37,4 +37,10 @@ I use the following languages, tools, deployment and databases across my GitHub 
 <div align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</div>
+
+## 🔌 API Testing
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia"/>
 </div>
