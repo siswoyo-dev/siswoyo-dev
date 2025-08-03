@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Siswoyo
 
-I use the following languages, tools, deployment, database and etc across my GitHub repositories:
+I use the following languages, tools, deployment, databases and etc across my GitHub repositories:
 
 ## 💻 Languages 
 
@@ -10,8 +10,7 @@ I use the following languages, tools, deployment, database and etc across my Git
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-
-
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
 </div>
 
 ## 🛠️ Tools
