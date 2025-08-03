@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Siswoyo
 
-I use the following languages and tools in my day-to-day development:
+I use the following languages, tools and database in my day-to-day development:
 
 ## 💻 Languages 
 
@@ -27,18 +27,3 @@ I use the following languages and tools in my day-to-day development:
 <div align="left">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 </div>
-
-<!--
-**siswoyo-dev/siswoyo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
