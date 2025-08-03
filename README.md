@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Siswoyo
 
-I use the following languages, tools and database in my day-to-day development:
+I use the following languages, tools, deployment and database in my day-to-day development:
 
 ## 💻 Languages 
 
