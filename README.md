@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Siswoyo
 
-I use the following languages, tools, deployment and database across my GitHub repositories:
+I use the following languages, tools, deployment and databases across my GitHub repositories:
 
 ## 💻 Languages 
 
